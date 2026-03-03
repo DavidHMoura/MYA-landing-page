@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/MYA-landing-page/",
+  base: "/MYA-landing-page/", 
   server: {
     host: "::",
     port: 8080,
